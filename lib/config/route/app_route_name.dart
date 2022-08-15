@@ -9,6 +9,7 @@ class AppRouteName {
 
   static void configureRoutes(FluroRouter router) {
     // App route decider
-    router.define(root, handler: rootHandler);
+    // router.define(root, handler: rootHandler);
+    router.define(root, handler: loginHandler);
   }
 }

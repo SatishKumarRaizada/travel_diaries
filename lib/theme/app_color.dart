@@ -7,7 +7,7 @@ class TravelColor {
     0xFFC1EDCC,
     <int, Color>{
       50: Color(0xFFebf9ef),
-      100: Color(0xFFc4eece),
+      100: Color(0xFFe1f6e7),
       200: Color(0xFF9ce2ae),
       300: Color(0xFF75d78d),
       400: Color(0xFF4dcb6d),
